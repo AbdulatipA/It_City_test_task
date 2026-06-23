@@ -100,8 +100,9 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/locators.txt
 Всего получается 6 типов роботов по назначению. Распределить тип питания и движения между ними (включая гибридные) самостоятельно.
 
 </details>
-### Решение:
+## Решение:
 https://github.com/AbdulatipA/It_City_test_task/tree/master/src/main/java/ru/mos/qa/testtasks/robots
+
 https://github.com/AbdulatipA/It_City_test_task/tree/master/src/test/java/ru/mos/qa/testtasks/tests/robotstests
 
 ### Критерии выполнения:
