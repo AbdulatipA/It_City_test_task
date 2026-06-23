@@ -44,8 +44,8 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Класс содержит набор юнит-тестов, покрывающий работу класса в достаточной степени
 * Все тесты, кроме тех, что связаны с методом, содержащим ошибку, проходят успешно
 * Тесты, связанные с дефектным методом должны падать
-### Решение
-https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/CalculatorTests.java
+`### Решение
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/CalculatorTests.java`
 
 ## Задание №4
 В классе `Stack` написана простая реализация для такой структуры как стек, но она содержит ошибку. Необходимо исправить ошибку и написать набор юнит тестов, которые будут успешно проходить.
