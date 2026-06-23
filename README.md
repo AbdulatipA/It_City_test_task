@@ -98,10 +98,6 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/locators.txt
 
 #### Существуют мультизадачные роботы: медики-сварщики, сварщики-повара и роботы, умеющие всё сразу.
 Всего получается 6 типов роботов по назначению. Распределить тип питания и движения между ними (включая гибридные) самостоятельно.
-
-### Решение:
-https://github.com/AbdulatipA/It_City_test_task/tree/master/src/main/java/ru/mos/qa/testtasks/robots
-https://github.com/AbdulatipA/It_City_test_task/tree/master/src/test/java/ru/mos/qa/testtasks/tests/robotstests
 </details>
 
 
@@ -114,6 +110,10 @@ https://github.com/AbdulatipA/It_City_test_task/tree/master/src/test/java/ru/mos
 * Реализован пакет с тестами `robotstests`, содержащий классы с тестами.
 * Все функции роботов покрыты тестами.
 * Все тесты проходят успешно.
+
+### Решение:
+https://github.com/AbdulatipA/It_City_test_task/tree/master/src/main/java/ru/mos/qa/testtasks/robots
+https://github.com/AbdulatipA/It_City_test_task/tree/master/src/test/java/ru/mos/qa/testtasks/tests/robotstests
 
 ## Задание №8
 Написать UI автотесты по двум заданиям. Тестовый сайт - http://uitestingplayground.com/
