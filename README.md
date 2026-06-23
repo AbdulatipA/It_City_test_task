@@ -25,8 +25,8 @@
 * Проект компилируется
 * Все тесты из `ProblemTests` проходят успешно
 * Проверки в тестах соответствуют их названиям
-### Решение:
-https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/ProblemTestsPack.java
+`### Решение:`
+`https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/ProblemTestsPack.java`
 
 ## Задание №2
 Создать тестовый класс `FileTests`. В нём написать тест, который будет считывать файл `test/java/resources/TraineeCharacteristics.txt`. Тест должен проверить, содержит ли файл строку "Упорство".
