@@ -1,0 +1,2 @@
+//span[contains(@class, 'mos-oiv-header__link')]
+mos-oiv-header__link
