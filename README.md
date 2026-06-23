@@ -25,8 +25,8 @@
 * Проект компилируется
 * Все тесты из `ProblemTests` проходят успешно
 * Проверки в тестах соответствуют их названиям
-`### Решение:`
-`https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/ProblemTestsPack.java`
+### Решение:
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/ProblemTestsPack.java
 
 ## Задание №2
 Создать тестовый класс `FileTests`. В нём написать тест, который будет считывать файл `test/java/resources/TraineeCharacteristics.txt`. Тест должен проверить, содержит ли файл строку "Упорство".
@@ -44,8 +44,8 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Класс содержит набор юнит-тестов, покрывающий работу класса в достаточной степени
 * Все тесты, кроме тех, что связаны с методом, содержащим ошибку, проходят успешно
 * Тесты, связанные с дефектным методом должны падать
-`### Решение
-https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/CalculatorTests.java`
+### Решение
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/CalculatorTests.java
 
 ## Задание №4
 В классе `Stack` написана простая реализация для такой структуры как стек, но она содержит ошибку. Необходимо исправить ошибку и написать набор юнит тестов, которые будут успешно проходить.
@@ -53,6 +53,7 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Исправлена ошибка в классе `Stack`
 * Создан класс `StackTests`, содержащий достаточное количество тестов
 * Тесты проходят успешно
+### Решение:
 
 ## Задание №5
 На основе реализации класса `Stack` написать аналог `DynamicStack`, только который не будет иметь ограничений по размеру и его размер будет изменяться динамически в зависимости от его заполнения
@@ -62,6 +63,7 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Реализован класс `DynamicStack` с учётом описанных выше требований
 * Реализован класс `DynamicStackTests`, содержащий достаточное количество тестов
 * Все тесты проходят успешно
+### Решение:
 
 ## Задание №6
 Написать XPath и CSS локаторы для строки с заголовком сайта https://mos.ru/dit (выделен красным прямоугольником на скриншоте). Локаторы написать в виде текста и записать в файле `locators.txt` в корне проекта.
@@ -70,6 +72,8 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Создан файл `locators.txt`
 * Файл содержит 2 строки: одна с XPATH выражением для поиска локатора, вторая с CSS выражением
 * Оба выражения должны быть рабочими для поиска заданного элемента
+### Решение:
+https://github.com/AbdulatipA/It_City_test_task/blob/master/locators.txt
 
 ## Задание №7
 Реализовать пакет `robots`, который будет содержать иерархию классов, отображающих различных роботов в соответствии с описанием ниже. Классы должны быть составлены с учётом принципов ООП.
@@ -96,6 +100,9 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 Всего получается 6 типов роботов по назначению. Распределить тип питания и движения между ними (включая гибридные) самостоятельно.
 
 </details>
+### Решение:
+https://github.com/AbdulatipA/It_City_test_task/tree/master/src/main/java/ru/mos/qa/testtasks/robots
+https://github.com/AbdulatipA/It_City_test_task/tree/master/src/test/java/ru/mos/qa/testtasks/tests/robotstests
 
 ### Критерии выполнения:
 * Создан пакет `robots`, содержащий необходимый набор классов.
@@ -128,5 +135,7 @@ http://uitestingplayground.com/sampleapp
 * Тесты должны успешно выполняться
 * Все вспомогательные классы и пакеты могут находиться где угодно
 * Можно использовать любой паттерн построения тестов
+### Решение:
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/playground/PlaygroundTest.java
 
 
