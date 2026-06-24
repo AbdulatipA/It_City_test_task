@@ -36,10 +36,6 @@ public class MedicalWelderRobot extends Powerable implements Medical, Welder, Fl
         return action;
     }
 
-    @Override
-    public String toString() {
-        return "Название: гибридный робот-медик-сварщик";
-    }
 
     @Override
     public String fly() {

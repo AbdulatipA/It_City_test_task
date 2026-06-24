@@ -1,6 +1,7 @@
 package ru.mos.qa.testtasks;
 
-class Stack {
+
+public class Stack {
   private int mSize;
   private int[] stackArray;
   private int top;
@@ -22,7 +23,6 @@ class Stack {
 
   public int readTop() {
     return stackArray[top];
-
   }
 
   public boolean isEmpty() {
