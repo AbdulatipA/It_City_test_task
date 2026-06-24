@@ -54,6 +54,8 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Создан класс `StackTests`, содержащий достаточное количество тестов
 * Тесты проходят успешно
 ### Решение:
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/main/java/ru/mos/qa/testtasks/Stack.java
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/StackTests.java
 
 ## Задание №5
 На основе реализации класса `Stack` написать аналог `DynamicStack`, только который не будет иметь ограничений по размеру и его размер будет изменяться динамически в зависимости от его заполнения
