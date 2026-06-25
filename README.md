@@ -141,6 +141,8 @@ http://uitestingplayground.com/sampleapp
 * Все вспомогательные классы и пакеты могут находиться где угодно
 * Можно использовать любой паттерн построения тестов
 ### Решение:
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/playground/AjaxBtnTest.java
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/playground/SampleAppFormTest.java
 https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/playground/PlaygroundTest.java
 
 
