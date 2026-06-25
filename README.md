@@ -66,6 +66,8 @@ https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos
 * Реализован класс `DynamicStackTests`, содержащий достаточное количество тестов
 * Все тесты проходят успешно
 ### Решение:
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/main/java/ru/mos/qa/testtasks/DynamicStack.java
+https://github.com/AbdulatipA/It_City_test_task/blob/master/src/test/java/ru/mos/qa/testtasks/tests/DynamicStackTests.java
 
 ## Задание №6
 Написать XPath и CSS локаторы для строки с заголовком сайта https://mos.ru/dit (выделен красным прямоугольником на скриншоте). Локаторы написать в виде текста и записать в файле `locators.txt` в корне проекта.
